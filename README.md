@@ -51,6 +51,7 @@
       display: block;
       text-decoration: none;
     }
+    
     .buy-now-button:hover {
       background-color: #45a049;
     }
